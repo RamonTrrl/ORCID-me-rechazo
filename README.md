@@ -55,7 +55,7 @@
 ## 💳 Membresías (Addendum Financiero)
 
 > Solía aportar algunos *"cobrecitos"*...
-> Hasta que mi viejita, en su infinita sabiduría, sentenció:
+> Hasta que mi viejita, en su infinita sabiduría, me dijo:
 >
 > *"Solo están para darte una aguja, y a cambio te sacan una barreta."*
 >
