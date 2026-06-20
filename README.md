@@ -69,5 +69,5 @@
 
 ---
 
-<sub>LETRA CHIQUITA:
-Este perfil fue rechazado por ORCID por exceso de honestidad y déficit de seriedad académica.</sub>
+ <sub>LETRA CHIQUITA:</sub>
+### Este perfil fue rechazado por ORCID por exceso de honestidad y déficit de seriedad académica.
